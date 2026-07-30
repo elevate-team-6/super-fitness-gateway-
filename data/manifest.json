@@ -1,0 +1,13 @@
+{
+  "data_version": "2026.07.27",
+  "databases": {
+    "exercises.db": {
+      "sha256": "2b356aa1912ac91207be28706792f080052339aa7d89514220c9fcd5cb57bdff",
+      "size": 4866048
+    },
+    "meals.db": {
+      "sha256": "8af8a4e177178f0afb456b05e17c9924400cc24789acdcdda4528ab5a8d7f946",
+      "size": 3633152
+    }
+  }
+}
